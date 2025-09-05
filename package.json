@@ -1,0 +1,24 @@
+{
+  "name": "aave-v3-sdk",
+  "version": "1.0.0",
+  "description": "Aave V3 DeFi protocol SDK for transaction simulation and data generation",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.0"
+  },
+  "keywords": [
+    "defi",
+    "aave",
+    "lending",
+    "ethereum",
+    "web3"
+  ],
+  "author": "DeFi SDK",
+  "license": "MIT"
+}
